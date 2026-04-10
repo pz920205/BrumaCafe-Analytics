@@ -1,33 +1,22 @@
-
-# BrumaCafe.gt - Events Business Data Analytics
-
+BrumaCafe-Analytics
 Bienvenidos al repositorio oficial de **Brumacafe.gt**. Este portafolio presenta información sobre nuestros servicios de eventos, proyectos realizados y el impacto generado en el sector de **catering de café para eventos**. 
 
 Aquí podrás encontrar detalles sobre los servicios que ofrecemos, proyectos destacados y cómo ponerte en contacto con nosotros.
 
-brumacafe.gt-analytics/
-│
-├── data/
-│   ├── Brumacafe_Dataset_120,xlsx
-│   ├── dashboard/
-│
-├── dashboards/
-│   ├── Dashboard.pbix
+brumacafe.gt-analytics
 
-│
-├── python/
-│   ├── analisis.py
-│
-├── reports/
-│   ├── monthly_performance.pdf
-│
-├── sql
-│   ├── queries.sql
-│
-└─ R/
-│
-└── analysis.R
-└──mongpdb
+    data/
+        Brumacafe_Dataset_120,xlsx
+       dashboard/─ dashboards/        
+       Dashboard.pbix
+
+
+python/
+ analisis.py
+  reports/
+ ├── queries.sq
+analysis.R
+mongpdb
 eventos.json
 README.md 
 
