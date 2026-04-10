@@ -20,9 +20,15 @@ mongpdb
 eventos.json
 README.md 
 
-[ Dashboard](dashboard/dasboard.png) 
+cobsultas de Dax 
+![Screenshot 2026-04-09 211559](https://github.com/user-attachments/assets/7d88f142-6c55-456e-92be-ba4d4c921185)
+Tabla de datos 
+![tabla de datos peter dashboard ](https://github.com/user-attachments/assets/484f5b9b-514d-40f2-92bd-52789407720e)
+dashboard basico 
+![Screenshot 2026-04-09 214820](https://github.com/user-attachments/assets/7d25b23b-f531-48ca-a772-9da489d8895f)
 
-[Dashboard] ( dashboard/dashboard.png)
+
+
 
 ##  Key Insights
 
