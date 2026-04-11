@@ -1,24 +1,8 @@
 BrumaCafe-Analytics
-Bienvenidos al repositorio oficial de **Brumacafe.gt**. Este portafolio presenta información sobre nuestros servicios de eventos, proyectos realizados y el impacto generado en el sector de **catering de café para eventos**. 
+Business analytics project focused on event pricing, cost optimization, and profitability.
 
 Aquí podrás encontrar detalles sobre los servicios que ofrecemos, proyectos destacados y cómo ponerte en contacto con nosotros.
 
-brumacafe.gt-analytics
-
-    data/
-        Brumacafe_Dataset_120,xlsx
-       dashboard/─ dashboards/        
-       Dashboard.pbix
-
-
-python/
- analisis.py
-  reports/
- ├── queries.sq
-analysis.R
-mongpdb
-eventos.json
-README.md 
 
 cobsultas de Dax 
 ![Screenshot 2026-04-09 211559](https://github.com/user-attachments/assets/7d88f142-6c55-456e-92be-ba4d4c921185)
@@ -34,15 +18,8 @@ dashboard basico
 
 - Weddings generate the highest revenue in Antigua
 - Antigua is the most profitable location
-- Corporate events provide margins exceeding 60%
-
-##  Business Recommendations
-
-- Focus marketing on weddings in Antigua
-- Increase pricing for high-demand events
-- Optimize cost structure for private events
+- Corporate events provide margins exceeding 
     
-
 ##  Servicios
 **Brumacafe.gt** se especializa en ofrecer servicios de barra de café premium para:
     **Bodas**
@@ -61,14 +38,11 @@ dashboard basico
   **MongoDB:** Almacenamiento de registros de eventos.
    **Power BI:** Visualización de KPIs y rentabilidad.
 
----
 
 ## Contacto
 ¿Interesado en nuestros servicios para tu próximo evento?
   **Instagram:** [@Brumacafe.gt](https://instagram.com)
-   **Ubicación:** Ciudad de Guatemala / Antigua Guatemala ciudad capital carrretera salvador zona 10 zona 14 zona 15 zona16 
-
-![Análisis de Ventas](./dashboard.png)
+   **Ubicación:** Ciudad de Guatemala / Antigua Guatemala ciudad capital carrretera salvador zona 10 zona 14 zona 15 zona16
 
  Habilidades Técnicas (Hard Skills)
 Categoría	Herramientas / Librerías
@@ -78,9 +52,5 @@ Visualización	Power BI (DAX, Dashboards Interactivos), Matplotlib
 Herramientas	Git/GitHub, VS Code, Excel Avanzado
 Data Ops	ETL Pipelines, Limpieza de Datos, Manejo de JSON
 ##  Dashboards y Análisis
-Visualizamos los datos clave para la toma de decisiones:
-![Dashboard de Ventas]
-*Gráfico de ejemplo: Rentabilidad por tipo de evento en Antigua Guatemala.*
+Visualizamos los datos clave para la toma de decisiones.
 
-=======
->>>>>>> 2e4376afc5a445a65050ebfbbed7ca08fe823c40
