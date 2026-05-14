@@ -1,4 +1,4 @@
-BrumaCafe-Analytics
+Coffee Business Analytics
 Business analytics project focused on event pricing, cost optimization, and profitability.
 
 Aquí podrás encontrar detalles sobre los servicios que ofrecemos, proyectos destacados y cómo ponerte en contacto con nosotros.
